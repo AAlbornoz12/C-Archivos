@@ -7,7 +7,7 @@ int main (){
         area,
         perimetro;
 
-  system("toilet CUADRADO --filter flop --width 64");
+  system("toilet DRAGONBOUND VERSION BETA --filter flop --width 64");
 /*Entrada de datos*/
       printf("Lado: ");
       scanf(" %i", &lado);
